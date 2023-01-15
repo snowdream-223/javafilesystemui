@@ -1,0 +1,320 @@
+2023-01-05 19:56:06 075：源文件目录创建  成功
+2023-01-05 19:56:06 117：log文件创建  成功
+2023-01-05 19:56:06 119：用户文件信息创建  成功
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+2023-01-05 21:19:42 552：log文件创建  失败
+2023-01-05 21:19:42 610：用户文件信息创建  失败
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+2023-01-05 21:21:09 884：log文件创建  失败
+2023-01-05 21:21:09 938：用户文件信息创建  失败
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, user.txt]
+filesystem\user.txt
+D:\IDEAPro\filesystem\filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+2023-01-07 10:35:26 480：log文件创建  失败
+2023-01-07 10:35:26 536：用户文件信息创建  失败
+2023-01-07 10:36:14 850：log文件创建  失败
+2023-01-07 10:36:14 899：用户文件信息创建  失败
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, user.txt]
+filesystem\user.txt
+2023-01-07 10:41:09 729：log文件创建  失败
+2023-01-07 10:41:09 783：用户文件信息创建  失败
+null
+2023-01-07 10:42:47 403：log文件创建  失败
+2023-01-07 10:42:47 446：用户文件信息创建  失败
+null
+2023-01-07 10:48:28 699：log文件创建  失败
+2023-01-07 10:48:28 745：用户文件信息创建  失败
+null
+2023-01-07 10:49:01 066：log文件创建  失败
+2023-01-07 10:49:01 113：用户文件信息创建  失败
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, user.txt]
+filesystem\user.txt
+D:\IDEAPro\filesystem\filesystem\发过火.txt
+[filesystem, 发过火.txt]
+filesystem\发过火.txt
+[filesystem, hh]
+filesystem\hh
+[filesystem, 发过火.txt]
+filesystem\发过火.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, gggg]
+filesystem\而同仁堂\gggg
+目标路径filesystem\而同仁堂\gggg
+原路径filesystem\发过火.txt
+[filesystem, 而同仁堂, gggg]
+filesystem\而同仁堂\gggg
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, gggg]
+filesystem\而同仁堂\gggg
+[filesystem, 而同仁堂, gggg, 发过火.txt]
+filesystem\而同仁堂\gggg\发过火.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, user.txt]
+filesystem\user.txt
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂, gggg]
+filesystem\而同仁堂\gggg
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+filesystem\而同仁堂\fff更改true
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+2023-01-07 10:56:18 309：log文件创建  失败
+2023-01-07 10:56:18 354：用户文件信息创建  失败
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, hjky.txt]
+filesystem\而同仁堂\hjky.txt
+[filesystem, 而同仁堂, hjky.txt]
+filesystem\而同仁堂\hjky.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff, jkjkkjkj.txt]
+filesystem\而同仁堂\fff\jkjkkjkj.txt
+[filesystem, 而同仁堂, fff, jkjkkjkj.txt]
+filesystem\而同仁堂\fff\jkjkkjkj.txt
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂, gggg]
+filesystem\而同仁堂\gggg
+[filesystem, 而同仁堂, gggg]
+filesystem\而同仁堂\gggg
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+D:\IDEAPro\filesystem\filesystem\而同仁堂\fff隐藏true
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+D:\IDEAPro\filesystem\filesystem\而同仁堂\fff设置显示true
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂, fff]
+filesystem\而同仁堂\fff
+2023-01-08 11:27:03 453：log文件创建  失败
+2023-01-08 11:27:03 509：用户文件信息创建  失败
+null
+2023-01-08 11:35:01 540：log文件创建  失败
+2023-01-08 11:35:01 596：用户文件信息创建  失败
+null
+2023-01-08 11:35:43 443：log文件创建  失败
+2023-01-08 11:35:43 483：用户文件信息创建  失败
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, log.txt]
+filesystem\log.txt
+[filesystem, 发过火.txt]
+filesystem\发过火.txt
+[filesystem, 发过火.txt]
+filesystem\发过火.txt
+[filesystem, 而同仁堂]
+filesystem\而同仁堂
+[filesystem, 而同仁堂]
+filesystem\而同仁堂2023-01-08 21:41:25 621：log文件创建  失败
+2023-01-08 21:41:25 670：用户文件信息创建  失败
+[filesystem, ggg{创建时间2023-01-07 10:48:02}]
+filesystem\ggg
+[filesystem, log.txt{创建时间2023-01-08 21:41:25}]
+filesystem\log.txt
+136nnnn129
+编辑路径filesystem\log.txt
+[filesystem, 发过火.txt{创建时间2023-01-08 21:40:57}]
+filesystem\发过火.txt
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-07 10:39:41}]
+filesystem\而同仁堂\jjj
+161nnnn573
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, rgh{创建时间2023-01-07 10:40:31}]
+filesystem\而同仁堂\rgh
+156nnnn665
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}]
+filesystem\而同仁堂\jjj
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}, hghjg{创建时间2023-01-08 21:41:48}]
+filesystem\而同仁堂\jjj\hghjg
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}, hghjg{创建时间2023-01-08 21:41:48}]
+filesystem\而同仁堂\jjj\hghjg
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+2023-01-08 21:47:06 206：log文件创建  失败
+2023-01-08 21:47:06 250：用户文件信息创建  失败
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+filesystem\而同仁堂\gjm
+2023-01-08 21:51:45 859：log文件创建  失败
+2023-01-08 21:51:45 905：用户文件信息创建  失败
+[filesystem, ggg{创建时间2023-01-07 10:48:02}]
+filesystem\ggg
+2023-01-08 21:56:59 852：log文件创建  失败
+2023-01-08 21:56:59 899：用户文件信息创建  失败
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]2023-01-08 21:58:36 287：log文件创建  失败
+2023-01-08 21:58:36 323：用户文件信息创建  失败
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+2023-01-08 22:27:00 672：log文件创建  失败
+2023-01-08 22:27:00 718：用户文件信息创建  失败
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
+filesystem\而同仁堂\gjm
+2023-01-08 22:30:50 333：log文件创建  失败
+2023-01-08 22:30:50 384：用户文件信息创建  失败
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}]
+filesystem\而同仁堂\jjj
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, kkkk{创建时间2023-01-07 10:37:18}]
+filesystem\而同仁堂\kkkk
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}]
+filesystem\而同仁堂\jjj
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}, hghjg{创建时间2023-01-08 21:42:10}]
+filesystem\而同仁堂\jjj\hghjg
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}, hghjg{创建时间2023-01-08 21:42:10}]
+filesystem\而同仁堂\jjj\hghjg
+2023-01-08 22:31:40 809：log文件创建  失败
+2023-01-08 22:31:40 859：用户文件信息创建  失败
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}]
+filesystem\而同仁堂
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}]
+filesystem\而同仁堂\jjj
+[filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, jjj{创建时间2023-01-08 21:41:48}, hghjg{创建时间2023-01-08 21:42:10}]
+filesystem\而同仁堂\jjj\hghjg
+2023-01-08 22:33:36 174：log文件创建  失败
+2023-01-08 22:33:36 219：用户文件信息创建  失败
