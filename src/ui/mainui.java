@@ -270,27 +270,24 @@ public class mainui {
         };
         jprb.add(jScrollPane1);
         //监听表格
-/*        sousuobiao.addMouseListener(new java.awt.event.MouseAdapter() {
+        sousuobiao.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(MouseEvent e) {//仅当鼠标双击时响应
                 if (e.getClickCount() == 2) {
-                 *//*   //得到选中的行列的索引值
+                    //得到选中的行列的索引值
                     int r = sousuobiao.getSelectedRow();
                     int c = sousuobiao.getSelectedColumn();
                     //得到选中的单元格的值，表格中都是字符串
                     Object value = sousuobiao.getValueAt(r, c);
-                    String zhanpath = value.toString().replace("\\", ",").trim();
-
+                    String zhanpath = value.toString().trim();
                     System.out.println(zhanpath);
-                    String[] split = zhanpath.split(",");
-                    System.out.println();*//*
-// 创建路径  [filesystem, 而同仁堂{创建时间2023-01-08 21:39:59}, gjm{创建时间2023-01-07 10:38:46}]
-                    TreePath path = new TreePath(new Object[]{"filesystem", "而同仁堂{创建时间2023-01-08 21:39:59}", "gjm{创建时间2023-01-07 10:38:46}"});
+                    editor editor = new editor();
+                    editor.edit(new File(zhanpath));
 
                 }
             }
 
 
-        });*/
+        });
 //        组装   左上
 
 
@@ -605,6 +602,16 @@ public class mainui {
         jTree.addMouseListener(new MouseListener() {
             @Override
             public void mouseClicked(MouseEvent e) {
+                if (e.getButton()==1&&e.getClickCount()==2){
+                    TreePath sp = jTree.getSelectionPath();
+                    String tpp = topath.to(sp.toString()).replace(",", "\\").replace("[", "").replace("]", "").trim().replace(" ", "");
+                    if (new File(tpp).isFile()){
+                        editor edd = new editor();
+                        edd.edit(new File(tpp));
+
+                    }
+
+                }
                 if (e.getButton() == 3) {
                     if (jpop[0] != null) {
                         jpop[0].setVisible(false);
@@ -614,7 +621,8 @@ public class mainui {
                     jpop[0].setLocation(e.getXOnScreen(), e.getYOnScreen());
                     jpop[0].add(rename);
                     jpop[0].add(setdatafile);
-                    jpop[0].add(editormenu);
+                   // jpop[0].add(editormenu);
+                    //右键编辑内容菜单
                     System.out.println(e.getX() + "nnnn" + e.getY());
                     jpop[0].setVisible(true);
 

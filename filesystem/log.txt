@@ -318,3 +318,20 @@ filesystem\而同仁堂\jjj
 filesystem\而同仁堂\jjj\hghjg
 2023-01-08 22:33:36 174：log文件创建  失败
 2023-01-08 22:33:36 219：用户文件信息创建  失败
+2023-01-15 10:57:26 526：log文件创建  失败
+2023-01-15 10:57:26 567：用户文件信息创建  失败
+[filesystem]
+filesystem
+[filesystem, jwkerv{创建时间2023-01-15 10:57:38}]
+filesystem\jwkerv
+[filesystem, jwkerv{创建时间2023-01-15 10:57:58}]
+filesystem\jwkerv
+[filesystem, jwkerv{创建时间2023-01-15 10:57:58}, sdfsdf.txt{创建时间2023-01-15 10:57:58}]
+filesystem\jwkerv\sdfsdf.txt
+2023-01-15 10:59:45 518：log文件创建  失败
+2023-01-15 10:59:45 570：用户文件信息创建  失败
+[filesystem, fsdfsd{创建时间2023-01-15 10:57:49}]
+filesystem\fsdfsd
+2023-01-15 11:00:38 637：log文件创建  失败
+2023-01-15 11:00:38 687：用户文件信息创建  失败
+filesystem,jwkerv,sdfsdf.txt
